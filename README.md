@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋# CovaltPay
+
+Coordinated group payments with rules.
+
+CovaltPay enables secure, transparent, milestone-based payment flows for businesses and teams — built for trust at scale.
+
+More coming soon.
 
 <!--
 **covaltpay/Covaltpay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
