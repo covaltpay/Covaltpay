@@ -1,12 +1,12 @@
 ## Hi there 👋# CovaltPay
-
 # CovaltPay
 
 CovaltPay is a trust-first payment orchestration platform for coordinated payments between multiple parties.
 
 It enables rule-based, milestone-driven payment flows where trust is enforced by structure — not relationships.
 
----
+---<img width="1024" height="1536" alt="file_0000000027c471f498258d68e1818528 (1)" src="https://github.com/user-attachments/assets/8ca07b77-2302-4f3e-8f15-30406916b6ad" />
+
 
 ## Why CovaltPay exists
 
@@ -47,4 +47,7 @@ Core components are under active development.
 
 For early access, demos, or agent licensing:
 → contact or link here (Gumroad / email / site)
+
+
+
 
