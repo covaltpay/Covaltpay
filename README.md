@@ -1,22 +1,50 @@
 ## Hi there 👋# CovaltPay
 
-Coordinated group payments with rules.
+# CovaltPay
 
-CovaltPay enables secure, transparent, milestone-based payment flows for businesses and teams — built for trust at scale.
+CovaltPay is a trust-first payment orchestration platform for coordinated payments between multiple parties.
 
-More coming soon.
+It enables rule-based, milestone-driven payment flows where trust is enforced by structure — not relationships.
 
-<!--
-**covaltpay/Covaltpay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Why CovaltPay exists
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most group payments assume trust.
+CovaltPay is designed for scenarios where:
+- Parties may not know each other
+- Funds are material
+- Failure or non-delivery is costly
+- Accountability matters
+
+Instead of “send and hope”, CovaltPay introduces enforceable rules.
+
+---
+
+## Core concepts
+
+- **Pacts** – structured agreements defining roles, rules, and conditions
+- **Milestones** – objective checkpoints that gate payment release
+- **Escrow logic** – funds are controlled by rules, not individuals
+- **Verification layers** – human, automated, or agent-assisted
+
+---
+
+## Intelligence & risk layer
+
+CovaltPay is supported by internal intelligence agents:
+- **Sonar** – detects emerging risk, regulation, and opportunity signals
+- **Guard Dog** – flags fraud patterns, delivery risk, and rule breaches
+
+These agents operate independently and can be deployed without CovaltPay.
+
+---
+
+## Status
+
+This repository documents architecture, concepts, and integration patterns.
+Core components are under active development.
+
+For early access, demos, or agent licensing:
+→ contact or link here (Gumroad / email / site)
+
