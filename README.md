@@ -6,6 +6,17 @@ CovaltPay is a trust-first payment orchestration platform for coordinated paymen
 It enables rule-based, milestone-driven payment flows where trust is enforced by structure — not relationships.
 
 ---<img width="1024" height="1536" alt="file_0000000027c471f498258d68e1818528 (1)" src="https://github.com/user-attachments/assets/8ca07b77-2302-4f3e-8f15-30406916b6ad" />
+---
+
+### Status
+
+CovaltPay is under active development.
+
+Core payment orchestration concepts are live.
+Internal intelligence agents (Sonar and Guard Dog) are operational and available independently.
+
+Early access, demos, and licensing:
+→ https://covaltpay.gumroad.com/l/kpvcd
 
 
 ## Why CovaltPay exists
