@@ -1,4 +1,4 @@
-## Hi there 👋# CovaltPay
+## # CovaltPay
 # CovaltPay
 
 CovaltPay is a trust-first payment orchestration platform for coordinated payments between multiple parties.
@@ -15,7 +15,7 @@ CovaltPay is under active development.
 Core payment orchestration concepts are live.
 Internal intelligence agents (Sonar and Guard Dog) are operational and available independently.
 
-Early access, demos, and licensing:
+Early access, demos, or agent licensing:
 → https://covaltpay.gumroad.com/l/kpvcd
 
 
