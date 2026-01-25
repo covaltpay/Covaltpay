@@ -57,7 +57,7 @@ This repository documents architecture, concepts, and integration patterns.
 Core components are under active development.
 
 For early access, demos, or agent licensing:
-→ contact or link here (Gumroad / email / site)
+→ https://covaltpay.gumroad.com/l/kpvcd
 
 
 
