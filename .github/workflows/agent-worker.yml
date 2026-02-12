@@ -1,0 +1,18 @@
+name: Agent Worker Trigger
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+
+jobs:
+  run-worker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call Supabase Agent Worker
+        run: |
+          curl -X POST "${{ secrets.WORKER_URL }}" \
+            -H "Content-Type: application/json" \
+            -H "x-worker-secret: ${{ secrets.WORKER_SECRET }}" \
+            --data '{}'
